@@ -96,6 +96,7 @@ All responses are JSON encoded.
 - The dataset and models are used purely for educational experimentation.
 - Predictions are not guaranteed to be accurate and **must never** be used for gambling or financial decisions.
 - Always cite the data source (Serie A match dataset) if you redistribute results.
+- UI and Graphics are Cursor assisted.
 
 ---
 
